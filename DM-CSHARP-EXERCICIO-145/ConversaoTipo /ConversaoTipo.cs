@@ -1,4 +1,4 @@
-namespace DM_CSHARP_EXERCICIO_145.ConversaoTipo_
+namespace DM_CSHARP_EXERCICIO_145.ConversaoTipo
 {
     public class ConversaoTipo
     {
