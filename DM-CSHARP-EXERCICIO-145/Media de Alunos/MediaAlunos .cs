@@ -1,4 +1,4 @@
-namespace DM_CSHARP_EXERCICIO_145.Media_de_alunos
+namespace DM_CSHARP_EXERCICIO_145.Media_de_Alunos
 {
     public class MediaAlunos 
     {

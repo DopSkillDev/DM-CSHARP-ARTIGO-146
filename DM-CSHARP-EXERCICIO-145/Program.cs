@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 using DM_CSHARP_EXERCICIO_145.Media_da_Família;
-using DM_CSHARP_EXERCICIO_145.Media_de_alunos;
+using DM_CSHARP_EXERCICIO_145.Media_de_Alunos;
 using DM_CSHARP_EXERCICIO_145.Média_moradores_do_condomínio;
 using DM_CSHARP_EXERCICIO_145.Caractere;
 using DM_CSHARP_EXERCICIO_145.Operadores_Logicos_e_Relacionais;
@@ -34,10 +34,8 @@ namespace DM_CSHARP_EXERCICIO_145
             Console.WriteLine(new OperadoresRelacionais().ObterOperadoresRelacionais());
             Console.WriteLine(new Caracteres().ObtendoCaractere());
             Console.WriteLine(new MediaAlunos().ObterMediaAlunos());
-            Console.WriteLine(new ConversaoTipo().ObterConversaoTipo());
-
-            // Console.WriteLine(new LPCasa().ObterLPCasa());
-
+            Console.WriteLine(new Conversao().ObterConversaoTipo());
+            Console.WriteLine(new Lampadas().ObterLPCasa());
 
             // SSint tipoPessoa = (int) TipoPessoa.Verde;
 

@@ -1,6 +1,6 @@
 namespace DM_CSHARP_EXERCICIO_145.ConversaoTipo
 {
-    public class ConversaoTipo
+    public class Conversao
     {
         int numero1 = 17;
         int numero2 = 2;
